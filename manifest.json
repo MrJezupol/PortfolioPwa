@@ -1,0 +1,70 @@
+{
+	"name" : "V.J. García Portfolio", 
+	"short-name" : "V.J. Portfolio",
+	"description" : "Aplicación PWA del portfolio de Vicente Jesús García Cases",
+	"background_color" : "#E6E6FA", 
+	"theme_color":"#FB314E",
+	"orientation":"portrait",
+	"display" :"standalone",
+	"start_url" : "./index.html?utm_source=web_app_manifest",
+	"scope": "./",
+	"lang":"es-ES",
+	"icons": [
+		{
+			"src":"./img/iconoLogo-1024.png",
+			"sizes":"1080x1014",
+			"type":"image/png"
+
+		},
+		{
+			"src":"./img/iconoLogo-512.png",
+			"sizes":"512x512",
+			"type":"image/png"
+
+		},
+		{
+			"src":"./img/iconoLogo-384.png",
+			"sizes":"384x360",
+			"type":"image/png"
+
+		},
+		{
+			"src":"./img/iconoLogo-256.png",
+			"sizes":"256x240",
+			"type":"image/png"
+
+		},
+		{
+			"src":"./img/iconoLogo-128.png",
+			"sizes":"128x120",
+			"type":"image/png"
+
+		},
+		{
+			"src":"./img/iconoLogo-96.png",
+			"sizes":"96x90",
+			"type":"image/png"
+
+		},
+		{
+			"src":"./img/iconoLogo-64.png",
+			"sizes":"64x60",
+			"type":"image/png"
+
+		},
+		{
+			"src":"./img/iconoLogo-32.png",
+			"sizes":"32x30",
+			"type":"image/png"
+
+		},
+		{
+			"src":"./img/iconoLogo-16.png",
+			"sizes":"17x16",
+			"type":"image/png"
+
+		}
+
+	]
+
+}
