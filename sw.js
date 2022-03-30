@@ -1,5 +1,4 @@
 //Asignar nombre y versión de la cache
-//Asignar nombre y versión de la cache
 const CACHE_NAME = 'v1_cache_vicente_portfolio_pwa'
 
 //Ficheros a guardar en la cahe
