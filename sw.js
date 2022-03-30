@@ -1,4 +1,5 @@
 //Asignar nombre y versión de la cache
+//Asignar nombre y versión de la cache
 const CACHE_NAME = 'v1_cache_vicente_portfolio_pwa'
 
 //Ficheros a guardar en la cahe
@@ -26,10 +27,11 @@ var urlsToCache =[
 		'./img/iconoLogo-32.png',
 		'./img/iconoLogo-16.png',
 		'./img/iconoLotgo.png',
-		'./img/android-visual.png'
+		'./img/android-visual.png',
+		'./img/archivo-48.png',
+		'./img/linkedin-48.png',
+		'./img/gmail-40.png'
 		
-
-
 ];
 
 //Eventos del ServiceWorker
